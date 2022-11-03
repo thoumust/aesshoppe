@@ -6,7 +6,7 @@
 .header{
 	min-height: 100vh;
 	width: 100%;
-	background-image: url(images/deepblack.png);
+	background-image: url(deepblack.png);
 	background-position: center;
 	background-size: cover;
 	position: relative;
